@@ -1,0 +1,5 @@
+org/ctk/config/CorsConfig.class
+org/ctk/api/ContactController.class
+org/ctk/CtkApiApplication.class
+org/ctk/api/HealthController.class
+org/ctk/model/ContactRequest.class
